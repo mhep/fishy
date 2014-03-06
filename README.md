@@ -1,4 +1,6 @@
 fishy
 =====
 
-Adequate Prompt and Title for a Fishy Shell
+Adequate Prompt and Title for a Fishy Shell:
+
+
